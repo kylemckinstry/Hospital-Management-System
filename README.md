@@ -4,10 +4,8 @@
 │              README                │
 └────────────────────────────────────┘
 
-32998 ASSIGNMENT-1: C# Console Application
+C# Console Application
 - - - - - - - - - - - - - - - - - - - - - 
-Student Name: Kyle McKinstry
-Student ID: 24549952
 ──────────────────────────────
 
 Start up guide:

@@ -1,0 +1,3 @@
+123,pass123,Patient,Ellie,West,ewesty@gmail.com,12345678,58,Leanor Street,Sydney,NSW
+220,bigWoof,Doctor,Doug,Losford,doglosford@gmail.com,87654321,58,Hound Street,Dogtown,NSW
+555,dog321,Patient,Tim,Bubble,bubba@gmail.com,43215678,58,Peach Drive,Camden,NSW

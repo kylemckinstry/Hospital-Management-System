@@ -1,0 +1,5 @@
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\publish\HospitalManagementSystem.exe
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\publish\HospitalManagementSystem.dll
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\publish\HospitalManagementSystem.deps.json
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\publish\HospitalManagementSystem.runtimeconfig.json
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\publish\HospitalManagementSystem.pdb

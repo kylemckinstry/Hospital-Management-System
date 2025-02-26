@@ -1,0 +1,5 @@
+00001,admin,Administrator,Adele,Ministrate,admini@gmail.com,0430321123,,,,,,
+00002,doc,Doctor,Jack,Doctorson,drjack@gmail.com,0412333676,23,Real Street,Sydney,NSW,,00003;00005
+00003,pat,Patient,David,Patientson,daveyd67@gmail.com,0412456876,19,Real Street,Sydney,NSW,00002,
+00004,recep,Receptionist,Tom,Recep,trecep@gmail.com,0435123123,,,,,,
+00005,password,Patient,Miranda,Patient,mirap@gmail.com,04567483,122,Real Street,Sydney,NSW,00002,

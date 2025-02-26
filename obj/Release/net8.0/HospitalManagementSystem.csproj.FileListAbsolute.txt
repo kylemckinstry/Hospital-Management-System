@@ -1,0 +1,14 @@
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\HospitalManagementSystem.exe
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\HospitalManagementSystem.deps.json
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\HospitalManagementSystem.runtimeconfig.json
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\HospitalManagementSystem.dll
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\bin\Release\net8.0\HospitalManagementSystem.pdb
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\HospitalManagementSystem.AssemblyInfo.cs
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\HospitalManagementSystem.dll
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\refint\HospitalManagementSystem.dll
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\HospitalManagementSystem.pdb
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\HospitalManagementSystem.genruntimeconfig.cache
+C:\Users\kylem\OneDrive\Documents\32998 .NET\Assignment 1\HospitalManagementSystem\HospitalManagementSystem\obj\Release\net8.0\ref\HospitalManagementSystem.dll
